@@ -1,3 +1,4 @@
 Name: Nutan Hiwale
 Phone no: 9022889027
 Age:20
+class: TYBSc(computer science)
